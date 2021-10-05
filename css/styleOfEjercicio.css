@@ -3,6 +3,11 @@ h1{
 }
 ul{
   list-style: none;
+  padding: 0px;
+}
+li {
+  list-style:  none;
+  line-height: 30px;
 }
 footer{
   display: flex;
